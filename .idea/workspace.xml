@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38d85fb-fd7c-4c3b-94f8-31992ef192b9" name="Changes" comment="" />
+    <list default="true" id="b38d85fb-fd7c-4c3b-94f8-31992ef192b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lec_1/DZ/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lec_1/DZ/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec_1/DZ/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lec_1/DZ/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec_1/Lesson/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lec_1/Lesson/4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lamavii"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lamavii/EdaAlgos.git",
+    "accountId": "56f1246b-0b36-43b8-b974-4c8239f34267"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ixi5MClAqjYdt8ozVQL9C4oJSN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,10 +40,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lec_1/Lesson" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
